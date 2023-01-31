@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ALSA98
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on JS related projects
 - 📫 How to reach me? my Email is ali.saraie92@gmail.com
 
